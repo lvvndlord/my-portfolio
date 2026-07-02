@@ -169,8 +169,8 @@ function HomeContent() {
       icon: <Cpu className='text-emerald-400' size={20} />,
       items:
         currentLang === 'pl'
-          ? ['Algorytmy i Struktury Danych', 'C#']
-          : ['Algorithms & Data Structures', 'C#'],
+          ? ['Algorytmy i Struktury Danych', 'C#', 'Python', 'SQL', 'C++', 'Node.js']
+          : ['Algorithms & Data Structures', 'C#', 'Python', 'SQL', 'C++', 'Node.js'],
     },
   ];
 
