@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/https://github.com/lvvndlord/my-portfolio',
+  basePath: '/my-portfolio', 
 };
 
 export default nextConfig;
